@@ -1,0 +1,1 @@
+A very quick introduction to adding tailwind to a react project /w config file setup, plugin addition, and some basic TW tag style intoductions including bg's, gradients, grid, breakpoints && positionoing.
